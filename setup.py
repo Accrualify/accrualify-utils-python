@@ -4,7 +4,7 @@ setup(
     name='toolbox',
     version='0.1',
     description='The common utils used by invoice parser and template service.',
-    url='http://github.com/storborg/funniest',
+    url='https://github.com/Accrualify/accrualify-utils-python',
     author='Nikhil Ahuja',
     author_email='nahuja@accrualify.com',
     license='MIT',
