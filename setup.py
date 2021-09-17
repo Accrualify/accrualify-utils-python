@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='toolbox',
-    version='0.1',
+    version='0.1.0',
     description='The common utils used by invoice parser and template service.',
     url='https://github.com/Accrualify/accrualify-utils-python',
     author='Nikhil Ahuja',
